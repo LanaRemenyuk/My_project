@@ -1,0 +1,9 @@
+asgiref==3.6.0
+Django==3.2.16
+django-filter==22.1
+drf-extra-fields==3.2.1
+drf_yasg
+Pillow==8.4.0
+pytz==2022.7
+sqlparse==0.4.3
+tzdata==2022.7
